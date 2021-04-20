@@ -9,11 +9,9 @@ namespace AreaTrianguloRet
             Console.Clear();
             Console.Beep();
 
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("  Área triângulo retângulo  ");
+            Console.WriteLine("----------------------------");
 
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
             Console.Write("Por favor, digite o valor da base: ");
